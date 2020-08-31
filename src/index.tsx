@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import SignInSide from './SignInSide'
+import SignInSide from './pages/signinside/SignInSide'
 
 ReactDOM.render(
   <React.StrictMode>
